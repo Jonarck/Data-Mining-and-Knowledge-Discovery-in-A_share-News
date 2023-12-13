@@ -1,0 +1,2 @@
+Attention! The company's ID is different from the company's stock code. The company's ID is provided in the hidy.nodes.company.csv file.
+If the file appears as garbled text when you open it, it is likely because you used Excel to open it. Please open it in CSV format.
