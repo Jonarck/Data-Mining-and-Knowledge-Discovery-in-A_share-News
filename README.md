@@ -1,8 +1,12 @@
 # Project Repository
 
+Project Theme: Data Mining and Knowledge Discovery in Stock Related Chinese News(A股相关的中文新闻)
+(From HKUST(GZ)-DSAA5002 Instructed by Prof. CHEN Lei)
+
 This repository contains code and data for a financial news analysis project. Below is a brief description of the directories and files present in this repository:
 
 **NOTE: Only necessary data and some important data are there in the project, the other data will be obtained when you are running all the code in order**
+
 ## Data Directory
 1. **KnowledgeGraph**: Stores node tables and relationship tables of the knowledge graph used for Task2-Q3 and Task2-Q4 inputs.
 2. **model**: Holds trained BERT and BiLSTM models, receiving outputs from Task1-Q2-part2 and PreliminaryExperiment-Task1-Q2-part2.
