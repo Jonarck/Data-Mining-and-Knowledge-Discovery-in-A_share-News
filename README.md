@@ -9,10 +9,15 @@ This repository contains code and data for a financial news analysis project. Be
 
 ## Task Description:
 1. **Task 1-Data Preprocessing and Sentiment Analysis**:
+   
    **Q1:Data Preprocessing - Noise Removal**
+
    **Q2:Data Analysis - Text Knowledge Mining with Sentiment Analysis**
+
 2. **Task 2-Application of Knowledge Graph**:
+
    **Q3:Constructing a Knowledge Graph with NEO4J**
+
    **Q4:Knowledge-Driven Financial Analysis**
 
 
