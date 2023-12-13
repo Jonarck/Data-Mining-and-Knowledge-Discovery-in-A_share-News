@@ -7,6 +7,15 @@ This repository contains code and data for a financial news analysis project. Be
 
 **NOTE: Only necessary data and some important data are there in the project, the other data will be obtained when you are running all the code in order**
 
+## Task Description:
+1. **Task 1-Data Preprocessing and Sentiment Analysis**:
+   **Q1:Data Preprocessing - Noise Removal**
+   **Q2:Data Analysis - Text Knowledge Mining with Sentiment Analysis**
+2. **Task 2-Application of Knowledge Graph**:
+   **Q3:Constructing a Knowledge Graph with NEO4J**
+   **Q4:Knowledge-Driven Financial Analysis**
+
+
 ## Data Directory
 1. **KnowledgeGraph**: Stores node tables and relationship tables of the knowledge graph used for Task2-Q3 and Task2-Q4 inputs.
 2. **model**: Holds trained BERT and BiLSTM models, receiving outputs from Task1-Q2-part2 and PreliminaryExperiment-Task1-Q2-part2.
