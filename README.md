@@ -1,7 +1,7 @@
 # Project Repository
 
 Project Theme: Data Mining and Knowledge Discovery in Stock Related Chinese News(A股相关的中文新闻)
-(From HKUST(GZ)-DSAA5002 Instructed by Prof. CHEN Lei)
+(From HKUST(GZ)-DSAA5002 Instructed by Prof. CHEN Lei) 
 
 This repository contains code and data for a financial news analysis project. Below is a brief description of the directories and files present in this repository:
 
