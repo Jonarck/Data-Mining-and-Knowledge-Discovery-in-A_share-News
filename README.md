@@ -8,6 +8,9 @@ This repository contains code and data for a financial news analysis project. Be
 **NOTE: Only necessary data and some important data are there in the project, the other data will be obtained when you are running all the code in order**
 
 ## Task Description:
+
+**See ‘Report Essay.pdf’ for details.**
+
 1. **Task 1-Data Preprocessing and Sentiment Analysis**:
    
    **Q1:Data Preprocessing - Noise Removal**
