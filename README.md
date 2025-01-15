@@ -3,6 +3,10 @@
 Project Theme: Data Mining and Knowledge Discovery in Stock Related Chinese News(A股相关的中文新闻)
 (From HKUST(GZ)-DSAA5002 Instructed by Prof. CHEN Lei) 
 
+- Ingeniously utilized semantic vector similarity in filtering A-share-related news, resolving the "alias issue."
+- Conducted accurate and efficient news sentiment analysis. Devised a clever data annotation method and conducted a model selection experiment, ultimately achieving an accuracy of 88\% with the trained BiLSTM model.
+- During data annotation, cleverly leveraged the collaboration between a LLM ChatBot which can give an explanation with domain expertise and a mature interface for sentiment analysis provided by Baidu with a precise task result, efficiently obtaining a credible training dataset of 100,000 samples.
+
 This repository contains code and data for a financial news analysis project. Below is a brief description of the directories and files present in this repository:
 
 **NOTE: Only necessary data and some important data are there in the project, the other data will be obtained when you are running all the code in order**
